@@ -25,7 +25,7 @@ import streamlit as st
 ## streamlit app
 # Streamlit app
 st.title('IMDB Movie Review Sentiment Analysis')
-st.write('Enter a movie review in 10 to 15 words to classify it as positive or negative.')
+st.write('Enter a movie review in very few words to classify it as positive or negative.')
 
 # User input
 user_input = st.text_area('Movie Review')
