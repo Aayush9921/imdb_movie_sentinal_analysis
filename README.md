@@ -6,8 +6,9 @@
 This project classifies movie reviews into positive or negative sentiments using deep learning. A Simple RNN model is used due to its effectiveness with sequential data. By learning from labeled IMDb reviews, the model captures patterns associated with sentiment, helping understand audience reactions more effectively.
 
 ### Model Deployment Screenshot
+Link : https://imdbmoviesentinalanalysis-z7j39fxewauvmfvxkukfuv.streamlit.app/
 
-![alt text](<Screenshot (63).png>)
+![alt text](<Screenshot (66).png>)
 
 ### Dataset
 The dataset used is the IMDb Movie Review Dataset, which contains 50,000 reviews labeled as either positive or negative. We split the dataset into training and testing sets to evaluate model performance.
